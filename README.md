@@ -1,4 +1,5 @@
 # diabetes-risk-analysis-r
-R-based healthcare analytics project using a diabetes prediction dataset (~100,000 records), involving extensive data cleaning (duplicates, outliers, class imbalance), exploratory analysis, and predictive modelling with Logistic Regression, CART, Random Forest, and K-Means clustering.
+R-based healthcare analytics project developing a predictive machine learning algorithm to estimate diabetes risk using a  dataset of nearly ~100,000 records. The model leverages clinical and demographic variables such as age, BMI, HbA1c levels, blood glucose levels, hypertension, heart disease, smoking history, and gender. The project involved extensive data preprocessing (duplicate removal, outlier treatment, class imbalance handling), exploratory analysis, and predictive modelling using Logistic Regression, CART, Random Forest, and K-Means clustering.
+
 
 
