@@ -1,2 +1,3 @@
 # diabetes-risk-analysis-r
-ealthcare data analytics project in R focusing on diabetes-related datasets, exploratory analysis, and insights.
+R-based analytics project analysing diabetes risk factors through data cleaning, visualisation, and statistical and predictive modelling, including logistic regression, CART, random forest, and clustering techniques.
+
